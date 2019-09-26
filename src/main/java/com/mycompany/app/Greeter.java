@@ -6,6 +6,6 @@ public class Greeter {
 	}
 
 	public String SayHello() {
-		return "hi!";
+		return "hello";
 	}
 }
